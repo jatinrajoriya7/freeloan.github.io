@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
-$dbname = "login_sample_db";
+$dbhost = "sql201.epizy.com";
+$dbuser = "epiz_28775254";
+$dbpass = "E6QpQisIYLb";
+$dbname = "epiz_28775254_krrish";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
 {
