@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "sql6.freemysqlhosting.net";
-$dbuser = "sql6416738sql6416738";
-$dbpass = "sql6416738";
-$dbname = "sql6416738";
+$dbhost = "sql201.epizy.com";
+$dbuser = "epiz_28775254";
+$dbpass = "E6QpQisIYLb";
+$dbname = "epiz_28775254_krrish";
 
 if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
 {
