@@ -302,7 +302,7 @@ table.blank td {font-size:14px;border-width: 0px;padding: 8px;border-style: soli
 	</div>
 	</div>
 	<div class="oib__row">
-	<div class="oib__row-title">Total Investments:</div>
+	<div class="oib__row-title">Total Investments43443:</div>
 	<div class="oib__row-val">
 	<span class="btc">$<?php echo $user_data['id']; ?></span>
 
